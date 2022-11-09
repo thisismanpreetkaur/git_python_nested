@@ -30,7 +30,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: run python file
-        run: python add.py
+        run: python demo.py
         working-directory: ./script/
 
       
